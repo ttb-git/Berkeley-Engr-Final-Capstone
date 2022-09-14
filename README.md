@@ -3,7 +3,7 @@
 **by Tauseef Bashir**
 
 #### Executive summary
-With the growth of market capitalization of cryptocurrencies (increased from $17 billion in 2017 to $2.25 trillion in 2021), cryptocurrencies remain incredibly volatile, with their value impacted by a multitude of factors: market trends, politics, technology…and Twitter. There have been instances where their prices were affected by tweets by famous personalities and the general public.
+With the growth of market capitalization of cryptocurrencies (increased from $17 billion in 2017 to $2.25 trillion in 2021), cryptocurrencies remain incredibly volatile, with their value impacted by a multitude of factors: market trends, politics, technology…and Twitter. There have been instances where digital assets prices were affected by tweets by famous personalities and the famous influencers.
 
 I plan to analyze trends over time, particularly the impact of social media on the price volatility of a crypto asset, such as Bitcoin (BTC).
 
@@ -20,7 +20,7 @@ BTC historical data:
 https://www.kaggle.com/datasets/mczielinski/bitcoin-historical-data
 
 #### Results
-Please see the attached notebooks for setailed graphs and conclutions.
+Please see the attached notebooks for detailed graphs and conclutions.
 
 
 #### Notebooks
@@ -28,7 +28,7 @@ Please find attached the following two notebooks for bitcoin twitter and financi
 
 - BTC-Twitter-EDA.ipynb
 - BTC-analysis-using-Prophet-Pycarat.ipynb
-
+- Final Modelling-BTC-tweets-sentiment-market-effect-LSTM.ipynb
 
 
 ##### References
@@ -36,5 +36,6 @@ Please find attached the following two notebooks for bitcoin twitter and financi
 2. Housing pices EDA and Prediction by Ruchi Bhatia
 3. 88.9 r2_score with pycaret by Kerem Yucedag
 4. Pycaret documentation
-
-
+5. https://keras.io/api/layers/recurrent_layers/lstm/
+6. https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM
+7. https://www.tensorflow.org/tutorials/structured_data/time_series
